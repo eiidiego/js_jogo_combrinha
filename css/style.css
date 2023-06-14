@@ -1,6 +1,24 @@
-body{
+body {
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    background-color: beige;
+}
+
+.dialago{
+    font-size: 55px;
+    color: rgb(22, 206, 31);
+}
+
+.tamanho{
+    background-color: rgb(22, 206, 31);
+    height: 40px;
+    width: 200px;
+    border: 2px rgb(22, 206, 31);;
+}
+
+#pnts{
+    color: rgb(22, 206, 31);
+    font-size: 20px;
 }
